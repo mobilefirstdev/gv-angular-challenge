@@ -1,0 +1,14 @@
+<div class="container">
+    <div class="row">
+        <div class="col">
+            <h2>Here is a list of fruit:</h2>
+            <p>Someone should organize this into a table...</p>
+            <div *ngIf="!!(viewModel.loadingFruit$|async)">
+                Loading Fruit...
+            </div>
+            <div *ngIf="!(viewModel.loadingFruit$|async)">
+                {{viewModel.fruitData$|async|json}}
+            </div>
+        </div>
+    </div>
+</div>
