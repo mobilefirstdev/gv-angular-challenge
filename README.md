@@ -38,7 +38,11 @@ The data comes from an api called [FruityVice](https://www.fruityvice.com/).
    - Style the table rows to alternate background colors between #FFFFFF and #FAFAFA
    - The text in the last column should be right-aligned
    - If the 'calories' column value is less than or equal to 50, then style only the calorie cell font color to #31BF5D
-   - 
+   
+**Bonus Goal** 
+- When you are ready, commit your changes to a branch
+- Submit a pull request with your changes to the github repository
+
 ### Helpful Resources
 
 - [FruityVice Api Documentation](https://www.fruityvice.com/)
