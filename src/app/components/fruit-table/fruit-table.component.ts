@@ -16,5 +16,4 @@ export class FruitTableComponent implements OnInit {
 
   ngOnInit(): void {
   }
-
 }

@@ -11,6 +11,8 @@ import {MatIconModule} from '@angular/material/icon';
 import {MatToolbarModule} from '@angular/material/toolbar';
 import {MatButtonModule} from '@angular/material/button';
 import {MatMenuModule} from '@angular/material/menu';
+import {MatCardModule} from '@angular/material/card';
+import {MatDividerModule} from '@angular/material/divider';
 
 const routes: Routes = [
   {
@@ -25,7 +27,7 @@ const routes: Routes = [
 
 @NgModule({
   imports: [
-    RouterModule.forRoot(routes, { relativeLinkResolution: 'legacy'}),
+    RouterModule.forRoot(routes, {relativeLinkResolution: 'legacy'}),
     BrowserModule,
     FormsModule,
     ReactiveFormsModule,
@@ -37,7 +39,9 @@ const routes: Routes = [
     MatToolbarModule,
     MatButtonModule,
     RouterModule,
-    MatMenuModule
+    MatMenuModule,
+    MatCardModule,
+    MatDividerModule
   ],
   exports: [RouterModule],
   declarations: [
