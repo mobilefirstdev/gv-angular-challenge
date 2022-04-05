@@ -8,6 +8,8 @@
 ### Install / Setup
 
 - Clone/download this repository to your computer
+  - use this command to clone the repository in terminal: `https://github.com/mobilefirstdev/gv-angular-challenge.git`
+  - or click the green 'Code' button and choose 'Download ZIP', and unzip after downloading
 - In Terminal, navigate to the location of the repository
 - Use this command to install the dependencies: `npm install`
 - Then use this command to start the local server for development: `ng serve`
