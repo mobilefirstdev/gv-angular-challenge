@@ -1,11 +1,15 @@
-<main>
-    <div class="container">
-        <div class="row">
-            <div class="col">
-                <h1>Grassland Ventures Angular Challenge</h1>
-                <hr>
-            </div>
-        </div>
-    </div>
-    <app-fruit-list></app-fruit-list>
+<mat-toolbar color="primary">
+    <button mat-icon-button class="example-icon" aria-label="Example icon-button with menu icon" [matMenuTriggerFor]="menu">
+        <mat-icon>menu</mat-icon>
+    </button>
+    <mat-menu #menu="matMenu">
+        <button mat-menu-item>
+            <mat-icon>home</mat-icon>
+            <span>Home</span>
+        </button>
+    </mat-menu>
+    <span>Grassland Ventures Angular Challenge</span>
+</mat-toolbar>
+<main class="pt-4">
+    <router-outlet></router-outlet>
 </main>
