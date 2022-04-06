@@ -65,13 +65,13 @@ The data comes from an api called [FruityVice](https://www.fruityvice.com/).
    
 ### Final Submission
 
-- When you are ready, commit your changes to your 'GV-1' branch.
+- When you are ready, commit any final changes to your 'GV-1' branch.
 - Submit a pull request with your changes to 'main' in the github repository.
 - The PR should contain the following
   - Brief summary of the changes
   - A screenshot of the original app
   - A screen recording of the completed app (showing the style changes to the table, as well as performing a search and filter, opening the modal if   completeted)
-- Send a link of the PR to andrew@grasslandventures.ca with any feedback and notes about hurdles or issues experienced.
+- Send a link to the PR to andrew@grasslandventures.ca with any feedback and notes about hurdles or issues experienced.
 
 ### Helpful Resources
 
