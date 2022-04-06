@@ -1,4 +1,4 @@
-# gv-angular-challenge
+# Grassland Angular Coding Challenge
 
 ### Prerequisites
 
