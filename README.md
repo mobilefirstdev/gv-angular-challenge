@@ -9,7 +9,7 @@
 
 - Create a repository from this template
   - Make sure you are signed in to your GitHub Account
-  - Click the green 'Use This Template Button'
+  - Click the green 'Use This Template' Button
   - Create a public repo (name it whatever you like)
 - Clone/Download your repository copy to your computer
   - While viewing your repository in GitHub, click the green 'Code' button
