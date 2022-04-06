@@ -70,7 +70,7 @@ The data comes from an api called [FruityVice](https://www.fruityvice.com/).
 - The PR should contain the following
   - Brief summary of the changes
   - A screenshot of the original app
-  - A screen recording of the completed app (showing the style changes to the table, as well as performing a search and filter)
+  - A screen recording of the completed app (showing the style changes to the table, as well as performing a search and filter, opening the modal if   completeted)
 - Send a link of the PR to andrew@grasslandventures.ca with any feedback and notes about hurdles or issues experienced.
 
 ### Helpful Resources
