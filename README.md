@@ -7,9 +7,14 @@
 
 ### Install / Setup
 
-- Clone/download this repository to your computer
-  - use this command to clone the repository in terminal: `https://github.com/mobilefirstdev/gv-angular-challenge.git`
-  - or click the green 'Code' button and choose 'Download ZIP', and unzip after downloading
+- Create a repository from this template
+  - Make sure you are signed in to your GitHub Account
+  - Click the green 'Use This Template Button'
+  - Create a public repo (name it whatever you like)
+- Clone/Download your repository copy to your computer
+  - While viewing your repository in GitHub, click the green 'Code' button
+  - Use the given command to clone the repository from Terminal
+  - OR choose 'Download ZIP', and unzip after downloading
 - In Terminal, navigate to the location of the repository
 - Use this command to install the dependencies: `npm install`
 - Then use this command to start the local server for development: `ng serve`
@@ -40,8 +45,9 @@ The data comes from an api called [FruityVice](https://www.fruityvice.com/).
    - If the 'calories' column value is less than or equal to 50, then style only the calorie cell font color to #31BF5D
    
 **Bonus Goal** 
-- When you are ready, commit your changes to a branch
-- Submit a pull request with your changes to the github repository
+- When you are ready, commit your changes to a new branch (other than main).
+- Submit a pull request with your changes to the github repository.
+- Send us a link to your pull request on your copy of the repository.
 
 ### Helpful Resources
 
